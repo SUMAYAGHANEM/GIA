@@ -1,4 +1,4 @@
-# GIA <P>
+# GIT <P>
 Local version control : database on your personal hard disk.<P>
 
 Centralized version control : system with main server to save different data and can be accessed by various users . <P>
